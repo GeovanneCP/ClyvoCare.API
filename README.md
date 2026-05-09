@@ -60,5 +60,6 @@ A estrutura da tabela `TB_CC_LOG_SAUDE` foi projetada para suportar funções an
 ---
 
 ## ✒️ Integrantes
-* **Seu Nome / RM**
-* **Nome do Colega (se houver) / RM**
+* **Geovanne Coneglian Passos / RM: 562683**
+* **Lucas Silva Pinheiro Gastão / RM: 563960**
+* **Guilherme Soares de Almeida / RM: 563143**
